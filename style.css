@@ -1,0 +1,31 @@
+body{
+    width:960px;
+    background-color: deepskyblue;
+    margin:0 auto; 
+
+}
+img{
+
+	max-width:65%;
+	
+}
+
+
+h1{
+    font-size:35px;
+	color: blueviolet;
+
+}
+
+h2{
+    
+	color:firebrick;
+
+} 
+
+li{
+	font-size:30px;
+}
+p{
+	font-size:28px;
+}
